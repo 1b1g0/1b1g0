@@ -1,5 +1,6 @@
 
 ### Hi there 👋
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=1b1g0)](https://git.io/streak-stats)
 
 <!--
 **1b1g0/1b1g0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
