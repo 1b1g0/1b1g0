@@ -1,4 +1,7 @@
 <script src="./script.js"></script>
+<noscript>
+    <p>Agora são: ${moment().format('HH:mm')}</p>
+</noscript>
 ### Hi there 👋
 
 <!--
