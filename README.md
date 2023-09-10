@@ -18,7 +18,7 @@ Estudande de **Backend** na CubosAcademy. **Aspirante a dev & tech lover /** Des
 </div>
 </div>
 
-<h1>💪 Hardskills:</h1>
+<h1>💪🏽 Hardskills:</h1>
 
 <div align="center">
 
