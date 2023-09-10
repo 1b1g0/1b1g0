@@ -9,8 +9,8 @@ Estudande de **Backend** na CubosAcademy. **Aspirante a dev & tech lover /** Des
 <div align="center">
 Alguns trabalhos que guardo com carinho:
 
-[![Behance](https://img.shields.io/badge/portfólio-1769FF?style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/igorbrunossi) 
-[![flickr](https://img.shields.io/badge/-fotografias-0063DC?style=for-the-badge&logo=Flickr&logoColor=white)](https://flickr.com/photos/igorbrunossi)
+[![Behance](https://img.shields.io/badge/portfólio-1769FF?target="_blank"&style=for-the-badge&logo=Behance&logoColor=white)](https://www.behance.net/igorbrunossi) 
+[![flickr](https://img.shields.io/badge/-fotografias-0063DC?target="_blank"&style=for-the-badge&logo=Flickr&logoColor=white)](https://flickr.com/photos/igorbrunossi)
 </div>
 </div>
 
