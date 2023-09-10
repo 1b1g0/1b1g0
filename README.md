@@ -22,16 +22,16 @@ Estudande de **Backend** na CubosAcademy. **Aspirante a dev & tech lover /** Des
 
 <div align="center">
 
-[![JS](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)](https://github.com/1b1g0?tab=repositories)
-[![Node](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/1b1g0?tab=repositories)
-[![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)](https://github.com/1b1g0?tab=repositories)
-[![JSON](https://img.shields.io/badge/-JSON-grey?style=for-the-badge&logo=JSON&logoColor=white)](https://github.com/1b1g0?tab=repositories)
-[![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/1b1g0?tab=repositories)
-[![Bash](https://img.shields.io/badge/-Bash-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/1b1g0?tab=repositories)
-[![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/1b1g0?tab=repositories)
-[![Ph](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)](https://www.behance.net/igorbrunossi)
-[![Ai](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)](https://www.behance.net/igorbrunossi)
-[![Lr](https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=AdobeLightroom&logoColor=white)](https://www.behance.net/igorbrunossi)
+![JS](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-grey?style=for-the-badge&logo=JSON&logoColor=white)
+![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![Ph](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
+![Ai](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
+![Lr](https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=AdobeLightroom&logoColor=white)
 
 <h1>
 
@@ -40,17 +40,3 @@ Estudande de **Backend** na CubosAcademy. **Aspirante a dev & tech lover /** Des
 
 </h1>
 </div>
-<!--
-**1b1g0/1b1g0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
