@@ -1,7 +1,7 @@
 
 <div align="left">
 <h2>
-✌🏾 Salve! Sou ciclista e entregador no Ifood. 🚴🏽 
+✌🏽 Salve! Sou ciclista e entregador no Ifood. 🚴🏽 
 </h2>
 
 Estudande de **Backend** na CubosAcademy. **Aspirante a dev & tech lover /** Designer buscando transição de carreira. 
