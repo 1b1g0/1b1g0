@@ -11,7 +11,7 @@ Estudande de **Backend** na CubosAcademy. **Aspirante a dev & tech lover /** Des
 
 <a href="https://www.behance.net/igorbrunossi" target="_blank">
 <img alt="Behance logo" src="https://img.shields.io/badge/portfólio-1769FF?style=for-the-badge&logo=Behance&logoColor=white"></a>
-<a href="https://www.behance.net/igorbrunossi" target="_blank">
+<a href="https://www.flickr.com/photos/igorbrunossi/albums" target="_blank">
 <img alt="Flickr logo" src="https://img.shields.io/badge/-fotografias-0063DC?style=for-the-badge&logo=Flickr&logoColor=white"></a>
 
 
