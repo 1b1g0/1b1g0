@@ -4,7 +4,7 @@
 ✌🏽 Salve! Sou ciclista e entregador no Ifood. 🚴🏽 
 </h2>
 
-Estudande de **Backend** na CubosAcademy. **Aspirante a dev & tech lover /** Designer buscando transição de carreira. 
+Formado em Desenvolvimento de Software com foco em **Backend** na CubosAcademy. **Aspirante a dev & tech lover /** Designer buscando transição de carreira. 
 
 <div align="center">
 <p>Alguns trabalhos que guardo com carinho:</p>
