@@ -3,19 +3,11 @@
 <h2>
 ✌🏽 Salve! Sou ciclista e entregador no Ifood. 🚴🏽 
 </h2>
+<h3>
+  **Cursando Análise e desenvolvimento de sistemas - PucPR**
+</h3>  
 
-Formado em Desenvolvimento de Software com foco em **Backend** na CubosAcademy. **Aspirante a dev & tech lover /** Designer buscando transição de carreira. 
-
-<div align="center">
-<p>Alguns trabalhos que guardo com carinho:</p>
-
-<a href="https://www.behance.net/igorbrunossi" target="_blank">
-<img alt="Behance logo" src="https://img.shields.io/badge/portfólio-1769FF?style=for-the-badge&logo=Behance&logoColor=white"></a>
-<a href="https://www.flickr.com/photos/igorbrunossi/albums" target="_blank">
-<img alt="Flickr logo" src="https://img.shields.io/badge/-fotografias-0063DC?style=for-the-badge&logo=Flickr&logoColor=white"></a>
-
-
-</div>
+Formado em Desenvolvimento de Software com foco em **Backend** na CubosAcademy. 
 </div>
 
 <h1>💪🏽 Hardskills:</h1>
