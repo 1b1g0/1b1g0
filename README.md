@@ -24,9 +24,6 @@ Formado em Desenvolvimento de Software com foco em **Backend** na CubosAcademy.
 ![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![Ph](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
-![Ai](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
-![Lr](https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=AdobeLightroom&logoColor=white)
 
 <h1>
 
