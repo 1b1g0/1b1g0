@@ -5,8 +5,10 @@
 </h2>
 <h3>
 Cursando Análise e desenvolvimento de sistemas - PucPR
-Estagiário de TI na Lottopar.
 </h3>  
+<h3>
+Estagiário de TI na Lottopar.
+</h3>
 
 Formado em Desenvolvimento de Software com foco em **Backend** na CubosAcademy. 
 </div>
