@@ -1,15 +1,11 @@
 
 <div align="left">
 <h2>
-✌🏽 Salve! Sou ciclista e entregador no Ifood. 🚴🏽 
+✌🏽 Salve! Sou Assessor de TI na Lottopar.
 </h2>
 <h3>
 Cursando Análise e desenvolvimento de sistemas - PucPR
-</h3>  
-<h3>
-Estagiário de TI na Lottopar.
-</h3>
-
+</h3> 
 Formado em Desenvolvimento de Software com foco em **Backend** na CubosAcademy. 
 </div>
 
@@ -19,7 +15,7 @@ Formado em Desenvolvimento de Software com foco em **Backend** na CubosAcademy.
 
 ![JS](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-grey?style=for-the-badge&logo=JSON&logoColor=white)
 ![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white)
