@@ -6,7 +6,7 @@
 <h3>
 Cursando Análise e desenvolvimento de sistemas - PucPR
 </h3> 
-Formado em Desenvolvimento de Software com foco em **Backend** na CubosAcademy. 
+Formado em Desenvolvimento de Software com foco em Backend na CubosAcademy. 
 </div>
 
 <h1>💪🏽 Hardskills:</h1>
