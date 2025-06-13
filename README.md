@@ -15,9 +15,10 @@ Formado em Desenvolvimento de Software com foco em Backend na CubosAcademy.
 
 ![JS](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-grey?style=for-the-badge&logo=JSON&logoColor=white)
 ![Express](https://img.shields.io/badge/-express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![FastApi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JSON](https://img.shields.io/badge/-JSON-grey?style=for-the-badge&logo=JSON&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
