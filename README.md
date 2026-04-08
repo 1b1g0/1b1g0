@@ -22,9 +22,4 @@ Formado em Desenvolvimento de Software com foco em Backend na CubosAcademy.
 ![Bash](https://img.shields.io/badge/-Bash-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h1>
-
-[![1b1g0 GitHub](https://github-readme-stats.vercel.app/api?username=1b1g0&show_icons=true&theme=tokyonight&bg_color=11111100&hide_border=true&locale=pt-BR&hide_rank=true&custom_title=Infos%20Git%20🚀&card_width=330)](https://github.com/1b1g0)
-
-</h1>
 </div>
